@@ -17,5 +17,5 @@ This project was a Arduino project and completely modular. We have used the foll
 ### Circuit Diagram:
 ![Circuit-Diagram-Line-Follower](https://user-images.githubusercontent.com/71866529/96773096-acb50780-1401-11eb-9f47-f37b077aed42.jpg)
 
-### Circuit Explaination:
+### Description of Circuit Diagram:
 The VCC & GND pins of the IR sensors are connected to the 5V and GND pin of arduino respectively. The OUT or data pin of the 3 three IR sensors are connected to the analog pins A0, A1, A2 of the arduino as the signal or input we are getting from the sensors are analog. The IN1, IN2, IN3, IN4 are connected to the digital pin 4,3,8,7 respectively and ENA, ENB are connected to digital pin 5 and 6 respectively. We have used digital pin 5 and 6 for ENA & ENB because they are PWM pins. The +ve terminal of the battery is connected to the switch and the –ve terminal is connected to the GND pin of the motor driver. The 12V pin of the motor driver is connected to another terminal of the switch. We have used two 18650 li-ion cells in series which gives us 8.4V when the cells are fully charged. The 5V pin of the motor driver gives 5V as output which is connected to the Vin of the arduino. 
