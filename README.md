@@ -11,9 +11,12 @@ This project was a Arduino project and completely modular. We have used the foll
 *	IR Sensor Module X 3
 *	Sets of BO Motors and Wheels X 2(Sets)
 *	Castor wheel X 1
+* 8"x13" 2mm Thick Aluminium Sheet 
 *	Power Supply(2 18650 li-ion batteries in series) and a Switch
 *	Breadboard and Jumper wires
 *	Clamps, Nut, Screws and Tapes
+![Photo from Subhrajyoti Choudhury (1)](https://user-images.githubusercontent.com/71866529/96777856-7f1f8c80-1408-11eb-9560-ebb1bdf1c9e5.jpg)
+
 ### Circuit Diagram:
 ![Circuit-Diagram-Line-Follower](https://user-images.githubusercontent.com/71866529/96773096-acb50780-1401-11eb-9f47-f37b077aed42.jpg)
 
