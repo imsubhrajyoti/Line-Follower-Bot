@@ -6,11 +6,11 @@ Here we have used IR sensors to detect the path. Due to limitations of the senso
 
 ### Components Used:
 This project was a Arduino project and completely modular. We have used the following components- 
-*	Arduino Nano(Microcontroller: ATMega328P-AU)
-*	L298N Motor Driver Module
-*	3 IR Sensor Module 
-*	2 Sets of BO Motors and Wheels
-*	1 Castor wheel
+*	Arduino Nano(Microcontroller: ATMega328P-AU) X 1
+*	L298N Motor Driver Module X 1
+*	IR Sensor Module X 3
+*	Sets of BO Motors and Wheels X 2(Sets)
+*	Castor wheel X 1
 *	Power Supply(2 18650 li-ion batteries in series) and a Switch
 *	Breadboard and Jumper wires
 *	Clamps, Nut, Screws and Tapes
